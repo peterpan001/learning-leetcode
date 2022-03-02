@@ -11,6 +11,11 @@
     <modules>
         <module>learning-sword-offer</module>
         <module>learning-sword-offer-assault</module>
+        <module>learning-tree</module>
+        <module>learning-search</module>
+        <module>learning-sort</module>
+        <module>learning-queue-stack</module>
+        <module>learning-linkedlist</module>
     </modules>
 
 
